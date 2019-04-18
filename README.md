@@ -7,6 +7,9 @@ ___
 | ---- | --- |
 | Onur Orkun Kader | 1728778 |
 
+cd into search
+`cd search/`
+
 Functions to Run
 
 ```shell
